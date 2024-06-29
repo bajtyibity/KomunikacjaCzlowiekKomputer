@@ -1,0 +1,59 @@
+<div>
+  <h1 id="tableLabel">Lem 2 Formularz</h1>
+
+  <p>Formularz rekordów bazy danych lem2.</p>
+
+  <p *ngIf="!diagnosis"><em>Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationangular">https://aka.ms/jspsintegrationangular</a> for more details.</em></p>
+
+  <!-- Filter input and buttons -->
+
+    <input type="text" [(ngModel)]="filterCriteria" placeholder="Enter filter text...">
+    <input type="text" [(ngModel)]="filterCriteria2" placeholder="Enter filter text...">
+    <input type="text" [(ngModel)]="filterCriteria3" placeholder="Enter filter text...">
+    <input type="text" [(ngModel)]="filterCriteria4" placeholder="Enter filter text...">
+    <input type="text" [(ngModel)]="filterCriteria5" placeholder="Enter filter text...">
+    <br>
+    <input type="text" [(ngModel)]="filterCriteria6" placeholder="Enter filter text...">
+    <input type="text" [(ngModel)]="filterCriteria7" placeholder="Enter filter text...">
+    <input type="text" [(ngModel)]="filterCriteria8" placeholder="Enter filter text...">
+    <input type="text" [(ngModel)]="filterCriteria9" placeholder="Enter filter text...">
+    <input type="text" [(ngModel)]="filterCriteria10" placeholder="Enter filter text...">
+    <br>
+      <button (click)="applyFilter()">Apply Filter</button>
+      <button (click)="clearFilter()">Clear Filter</button>
+
+      <table *ngIf="filteredDiagnosis.length > 0">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Objaw1</th>
+            <th>Objaw2</th>
+            <th>Objaw3</th>
+            <th>Objaw4</th>
+            <th>Objaw5</th>
+            <th>Objaw6</th>
+            <th>Objaw7</th>
+            <th>Objaw8</th>
+            <th>Objaw9</th>
+            <th>Objaw10</th>
+            <th>Choroba</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let diagnose of filteredDiagnosis">
+            <td>{{ diagnose.id }}</td>
+            <td>{{ diagnose.objaw1 }}</td>
+            <td>{{ diagnose.objaw2 }}</td>
+            <td>{{ diagnose.objaw3 }}</td>
+            <td>{{ diagnose.objaw4 }}</td>
+            <td>{{ diagnose.objaw5 }}</td>
+            <td>{{ diagnose.objaw6 }}</td>
+            <td>{{ diagnose.objaw7 }}</td>
+            <td>{{ diagnose.objaw8 }}</td>
+            <td>{{ diagnose.objaw9 }}</td>
+            <td>{{ diagnose.objaw10 }}</td>
+            <td>{{ diagnose.choroba }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>

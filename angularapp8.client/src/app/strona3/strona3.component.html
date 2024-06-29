@@ -1,0 +1,23 @@
+<div>
+  <h1>Klasyfikacja choroby</h1>
+  <form (ngSubmit)="applyFilter()">
+    <div>
+      <label>
+        Objaw 1:
+        <input type="text" [(ngModel)]="filterCriteria" name="filterCriteria">
+      </label>
+    </div>
+    <div>
+      <label>
+        Objaw 2:
+        <input type="text" [(ngModel)]="filterCriteria2" name="filterCriteria2">
+      </label>
+    </div>
+    <!-- Dodaj więcej pól dla pozostałych objawów -->
+    <button type="submit">Klasyfikuj</button>
+  </form>
+  <div *ngIf="diagnosisResult">
+    <h2>Diagnoza: {{ diagnosisResult }}</h2>
+  </div>
+  <button (click)="clearFilter()">Wyczyść filtry</button>
+</div>

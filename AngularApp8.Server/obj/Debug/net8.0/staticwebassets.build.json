@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "AtYB70tcKWRv/yvZaFjmutuAjw1boxjFgB0e5DAOpDE=",
+  "Source": "AngularApp8.Server",
+  "BasePath": "_content/AngularApp8.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\angularapp8.client.esproj",
+      "Version": 2,
+      "Source": "angularapp8.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,808 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona3\\strona3.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona3\\strona3.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona3\\strona3.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona3\\strona3.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona3\\lem2.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona3\\lem2.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona2\\strona2.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona2\\strona2.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona\\strona.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona\\strona.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona\\strona.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona\\strona.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona2\\strona2.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona2\\strona2.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona\\strona.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona\\strona.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\app\\strona\\strona.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\app\\strona\\strona.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.server\\diagnoza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|solutionrelative:angularapp8.server\\diagnoza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.server\\migrations\\20240626194111_pierwszamigracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|solutionrelative:angularapp8.server\\migrations\\20240626194111_pierwszamigracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.server\\migrations\\diagnozamodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|solutionrelative:angularapp8.server\\migrations\\diagnozamodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.server\\controllers\\diagnozascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|solutionrelative:angularapp8.server\\controllers\\diagnozascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.server\\data\\diagnoza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|solutionrelative:angularapp8.server\\data\\diagnoza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|solutionrelative:angularapp8.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.server\\angularapp8.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0F884D1-148B-40A5-BEA4-3228125478B7}|AngularApp8.Server\\AngularApp8.Server.csproj|solutionrelative:angularapp8.server\\angularapp8.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp8\\angularapp8.client\\angularapp8.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50A5CAF7-1B74-4777-AECA-4895AF0702EA}|angularapp8.client\\angularapp8.client.esproj|solutionrelative:angularapp8.client\\angularapp8.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lem2.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\lem2.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona3\\lem2.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\lem2.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona3\\lem2.ts",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwCMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-28T14:12:20.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "strona3.component.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.css",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona3\\strona3.component.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.css",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona3\\strona3.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T11:38:07.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "strona3.component.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.html",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona3\\strona3.component.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.html",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona3\\strona3.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-28T11:38:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "strona3.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona3\\strona3.component.spec.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.spec.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona3\\strona3.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-28T11:38:06.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "strona3.component.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona3\\strona3.component.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona3\\strona3.component.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona3\\strona3.component.ts",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowF4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-28T11:37:43.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\home\\home.component.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\home\\home.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-27T14:58:53.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "strona2.component.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.html",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona2\\strona2.component.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.html",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona2\\strona2.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-25T16:09:57.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "strona2.component.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.css",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona2\\strona2.component.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.css",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona2\\strona2.component.css",
+              "ViewState": "AQIAADIAAAAAAAAAAADwv1kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T16:09:59.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "strona.component.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona\\strona.component.html",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona\\strona.component.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona\\strona.component.html",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona\\strona.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAADUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-25T14:16:24.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "strona.component.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona\\strona.component.css",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona\\strona.component.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona\\strona.component.css",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona\\strona.component.css",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvzUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T14:16:23.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-25T16:22:46.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\home\\home.component.css",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\home\\home.component.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\home\\home.component.css",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\home\\home.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T16:22:47.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "home.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\home\\home.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\home\\home.component.spec.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\home\\home.component.spec.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\home\\home.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T16:22:49.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "strona2.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona2\\strona2.component.spec.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.spec.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona2\\strona2.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-27T20:24:29.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\app.component.css",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T20:34:02.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "strona2.component.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona2\\strona2.component.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona2\\strona2.component.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona2\\strona2.component.ts",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-27T16:26:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-24T23:12:46.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-24T19:43:20.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-24T19:43:24.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-24T19:43:25.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "angularapp8.client\\aspnetcore-https.js",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\aspnetcore-https.js",
+              "RelativeToolTip": "angularapp8.client\\aspnetcore-https.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T20:45:19.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-24T21:21:35.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\styles.css",
+              "RelativeToolTip": "angularapp8.client\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T20:44:58.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "strona.component.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona\\strona.component.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona\\strona.component.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona\\strona.component.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona\\strona.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T14:33:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "strona.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona\\strona.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\app\\strona\\strona.component.spec.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\app\\strona\\strona.component.spec.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\app\\strona\\strona.component.spec.ts",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-25T14:33:22.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "diagnoza.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\diagnoza.cs",
+              "RelativeDocumentMoniker": "AngularApp8.Server\\diagnoza.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\diagnoza.cs",
+              "RelativeToolTip": "AngularApp8.Server\\diagnoza.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:01:46.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\main.ts",
+              "RelativeToolTip": "angularapp8.client\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-24T19:43:11.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "angularapp8.client\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T19:43:10.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\angular.json",
+              "RelativeDocumentMoniker": "angularapp8.client\\angular.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\angular.json",
+              "RelativeToolTip": "angularapp8.client\\angular.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAGwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T20:45:26.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "angularapp8.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\CHANGELOG.md",
+              "RelativeToolTip": "angularapp8.client\\CHANGELOG.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-24T20:45:17.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "karma.conf.js",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\karma.conf.js",
+              "RelativeDocumentMoniker": "angularapp8.client\\karma.conf.js",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\karma.conf.js",
+              "RelativeToolTip": "angularapp8.client\\karma.conf.js",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T20:45:12.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\nuget.config",
+              "RelativeDocumentMoniker": "angularapp8.client\\nuget.config",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\nuget.config",
+              "RelativeToolTip": "angularapp8.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-24T20:45:11.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\package.json",
+              "RelativeDocumentMoniker": "angularapp8.client\\package.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\package.json",
+              "RelativeToolTip": "angularapp8.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T20:45:04.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\README.md",
+              "RelativeDocumentMoniker": "angularapp8.client\\README.md",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\README.md",
+              "RelativeToolTip": "angularapp8.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-24T20:45:03.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "angularapp8.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\tsconfig.json",
+              "RelativeToolTip": "angularapp8.client\\tsconfig.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T20:45:00.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "angularapp8.client\\tsconfig.app.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\tsconfig.app.json",
+              "RelativeToolTip": "angularapp8.client\\tsconfig.app.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T15:27:50.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\.gitignore",
+              "RelativeDocumentMoniker": "angularapp8.client\\.gitignore",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\.gitignore",
+              "RelativeToolTip": "angularapp8.client\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-24T20:45:33.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\.editorconfig",
+              "RelativeDocumentMoniker": "angularapp8.client\\.editorconfig",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\.editorconfig",
+              "RelativeToolTip": "angularapp8.client\\.editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-24T20:45:34.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "tsconfig.spec.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\tsconfig.spec.json",
+              "RelativeDocumentMoniker": "angularapp8.client\\tsconfig.spec.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\tsconfig.spec.json",
+              "RelativeToolTip": "angularapp8.client\\tsconfig.spec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T15:27:48.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "angularapp8.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\.vscode\\launch.json",
+              "RelativeToolTip": "angularapp8.client\\.vscode\\launch.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T20:51:22.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DiagnozaModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Migrations\\DiagnozaModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AngularApp8.Server\\Migrations\\DiagnozaModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Migrations\\DiagnozaModelSnapshot.cs",
+              "RelativeToolTip": "AngularApp8.Server\\Migrations\\DiagnozaModelSnapshot.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:20:26.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "diagnozasController.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Controllers\\diagnozasController.cs",
+              "RelativeDocumentMoniker": "AngularApp8.Server\\Controllers\\diagnozasController.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Controllers\\diagnozasController.cs",
+              "RelativeToolTip": "AngularApp8.Server\\Controllers\\diagnozasController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAiwHkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:48:47.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240626194111_PierwszaMigracja.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Migrations\\20240626194111_PierwszaMigracja.cs",
+              "RelativeDocumentMoniker": "AngularApp8.Server\\Migrations\\20240626194111_PierwszaMigracja.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Migrations\\20240626194111_PierwszaMigracja.cs",
+              "RelativeToolTip": "AngularApp8.Server\\Migrations\\20240626194111_PierwszaMigracja.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:41:11.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "favicon.ico",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\favicon.ico",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\favicon.ico",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\favicon.ico",
+              "RelativeToolTip": "angularapp8.client\\src\\favicon.ico",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-06-24T20:51:06.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularapp8.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\src\\index.html",
+              "RelativeToolTip": "angularapp8.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-24T19:43:13.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Diagnoza.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Data\\Diagnoza.cs",
+              "RelativeDocumentMoniker": "AngularApp8.Server\\Data\\Diagnoza.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Data\\Diagnoza.cs",
+              "RelativeToolTip": "AngularApp8.Server\\Data\\Diagnoza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:06:52.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularApp8.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\Program.cs",
+              "RelativeToolTip": "AngularApp8.Server\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:03:06.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AngularApp8.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\AngularApp8.Server.csproj",
+              "RelativeDocumentMoniker": "AngularApp8.Server\\AngularApp8.Server.csproj",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\AngularApp8.Server\\AngularApp8.Server.csproj",
+              "RelativeToolTip": "AngularApp8.Server\\AngularApp8.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T19:42:31.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "angularapp8.client.esproj",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\angularapp8.client.esproj",
+              "RelativeDocumentMoniker": "angularapp8.client\\angularapp8.client.esproj",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp8\\angularapp8.client\\angularapp8.client.esproj",
+              "RelativeToolTip": "angularapp8.client\\angularapp8.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-24T19:42:54.758Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

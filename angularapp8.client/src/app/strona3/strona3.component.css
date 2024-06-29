@@ -1,0 +1,37 @@
+table {
+  width: auto;
+  border-collapse: collapse; /* Ensures that the borders are collapsed into a single border */
+  margin-left:auto;
+  margin-right:auto;
+}
+
+th, td {
+  border: 1px solid black; /* Sets the border for table headers and cells */
+  padding: 4px; /* Adds padding for better spacing */
+  text-align: left; /* Aligns text to the left */
+  width: 30px;
+  overflow: hidden;
+}
+
+th {
+  background-color: #f2f2f2; /* Light gray background for headers */
+}
+/* Optional: Add alternating row colors for better readability */
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f1f1f1; /* Highlight row on hover */
+}
+/* Customize the table's outer border */
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+input {
+
+  width: 170px;
+  overflow: hidden;
+}
+

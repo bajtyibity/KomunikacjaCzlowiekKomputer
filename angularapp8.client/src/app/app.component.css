@@ -1,0 +1,54 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  /* You can add more styles as needed */
+}
+
+:host {
+    max-width: 1280px;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.clear-both {
+  clear: both;
+}
+
+/* ///////////////////navbar/////////////////// */
+.custom-navbar {
+  background-color: #ED5565; /* Grapefruit background color */
+  color: #ffffff; /* White text color */
+  position: relative;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+.navbar-container {
+  display: block;
+  justify-content: center; /* Center items horizontally */
+  max-width: 1200px;
+  margin: 0 auto; /* Center the navbar horizontally */
+  padding: 10px 20px; /* Padding inside the navbar */
+}
+
+.navbar-item {
+  text-decoration: none;
+  color: #ffffff; /* White text color */
+  padding: 14px 16px; /* Padding around each item */
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+  .navbar-item:hover {
+    background-color: #DA4453; /* Darker Grapefruit color on hover */
+  }
